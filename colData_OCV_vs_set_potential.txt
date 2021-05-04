@@ -1,0 +1,7 @@
+sampleName	condition
+OCV1a	control
+OCV2a	control
+OCV3a	control
+OCV1b	treatment
+OCV2b	treatment
+OCV3b	treatment

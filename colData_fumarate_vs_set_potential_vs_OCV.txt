@@ -1,0 +1,13 @@
+sampleName	condition
+F4a	control
+F5a	control
+F6a	control
+F4b	treatment
+F5b	treatment
+F6b	treatment
+OCV1a	control
+OCV2a	control
+OCV3a	control
+OCV1b	treatment
+OCV2b	treatment
+OCV3b	treatment

@@ -1,0 +1,7 @@
+sampleName	condition
+F4a	control
+F5a	control
+F6a	control
+F4b	treatment
+F5b	treatment
+F6b	treatment
